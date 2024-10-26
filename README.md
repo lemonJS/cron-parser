@@ -10,7 +10,7 @@ $ bundle install
 
 Run the tests:
 ```bash
-$ bundle exec rspec ./spec/*
+$ bundle exec rspec
 ```
 
 Run the program:
